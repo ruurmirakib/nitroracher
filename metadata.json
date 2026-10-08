@@ -1,0 +1,6 @@
+{
+  "name": "NitroType Racer - টাইপিং কার রেস",
+  "description": "An exciting typing car racing game where your typing speed moves your car down the track against AI opponents, with nitro boost, multiple tracks, audio FX, and English & Bengali typing modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
